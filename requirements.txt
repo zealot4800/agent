@@ -1,0 +1,6 @@
+pdf2image
+pytesseract
+Pillow
+openai
+python-dotenv
+tqdm
